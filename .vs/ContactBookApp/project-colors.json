@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f698204e-3ffc-486d-a344-8d5e4455b26a": {
+      "ProjectGuid": "f698204e-3ffc-486d-a344-8d5e4455b26a",
+      "DisplayName": "ContactBookApp",
+      "ColorIndex": 0
+    },
+    "4d7c702d-dcdb-411e-84d1-98dfe6ef787d": {
+      "ProjectGuid": "4d7c702d-dcdb-411e-84d1-98dfe6ef787d",
+      "DisplayName": "DatabaseAndModel",
+      "ColorIndex": 1
+    },
+    "e5005c53-7f30-4563-9f8d-fad8adac30f3": {
+      "ProjectGuid": "e5005c53-7f30-4563-9f8d-fad8adac30f3",
+      "DisplayName": "ContactBusinessLogic",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

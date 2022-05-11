@@ -1,0 +1,54 @@
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.deps.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ref\ContactBusinessLogic.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.AssemblyInfo.cs
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ref\ContactBusinessLogic.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.CopyComplete
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.runtimeconfig.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.genruntimeconfig.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.deps.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.runtimeconfig.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.AssemblyInfo.cs
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.CopyComplete
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\refint\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.genruntimeconfig.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ref\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.deps.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.runtimeconfig.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.AssemblyInfo.cs
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\refint\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ContactBusinessLogic.genruntimeconfig.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBusinessLogic\obj\Debug\net5.0\ref\ContactBusinessLogic.dll

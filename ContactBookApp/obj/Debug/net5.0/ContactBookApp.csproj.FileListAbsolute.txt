@@ -1,0 +1,237 @@
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.exe
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.deps.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.runtimeconfig.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ref\ContactBookApp.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\scopedcss\bundle\ContactBookApp.styles.css
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\staticwebassets\ContactBookApp.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ref\ContactBookApp.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.genruntimeconfig.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.CopyComplete
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\JsonFile\Users.json
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\JsonFile\Users.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.exe
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.deps.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.runtimeconfig.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\scopedcss\bundle\ContactBookApp.styles.css
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\staticwebassets\ContactBookApp.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.CopyComplete
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\refint\ContactBookApp.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ref\ContactBookApp.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\JsonFile\Users.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.exe
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.deps.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.runtimeconfig.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBookApp.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBusinessLogic.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\ContactBusinessLogic.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\scopedcss\bundle\ContactBookApp.styles.css
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\staticwebassets\ContactBookApp.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.csproj.CopyComplete
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\refint\ContactBookApp.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ContactBookApp.genruntimeconfig.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactBookApp\obj\Debug\net5.0\ref\ContactBookApp.dll

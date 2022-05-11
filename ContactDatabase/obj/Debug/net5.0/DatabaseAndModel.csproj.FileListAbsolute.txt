@@ -1,0 +1,36 @@
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.deps.json
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\bin\Debug\net5.0\ref\DatabaseAndModel.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.AssemblyInfo.cs
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\ref\DatabaseAndModel.dll
+C:\Users\hp\source\repos\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.deps.json
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.AssemblyInfo.cs
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\refint\DatabaseAndModel.dll
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\DecagonWeeklCurriculum\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\ref\DatabaseAndModel.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.deps.json
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\bin\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.AssemblyInfo.cs
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\refint\DatabaseAndModel.dll
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\DatabaseAndModel.pdb
+C:\Users\hp\Desktop\Projects\ContactBookApp (1)\ContactBookApp\ContactDatabase\obj\Debug\net5.0\ref\DatabaseAndModel.dll
